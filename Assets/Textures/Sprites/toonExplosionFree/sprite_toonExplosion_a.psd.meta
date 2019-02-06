@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: e697f895ade7aac4aa68eea470c58242
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_toonExplosion_a_0
+    21300002: sprite_toonExplosion_a_1
+    21300004: sprite_toonExplosion_a_2
+    21300006: sprite_toonExplosion_a_3
+    21300008: sprite_toonExplosion_a_4
+    21300010: sprite_toonExplosion_a_5
+    21300012: sprite_toonExplosion_a_6
+    21300014: sprite_toonExplosion_a_7
+    21300016: sprite_toonExplosion_a_8
+    21300018: sprite_toonExplosion_a_9
+    21300020: sprite_toonExplosion_a_10
+    21300022: sprite_toonExplosion_a_11
+    21300024: sprite_toonExplosion_a_12
+    21300026: sprite_toonExplosion_a_13
+    21300028: sprite_toonExplosion_a_14
+    21300030: sprite_toonExplosion_a_15
+    21300032: sprite_toonExplosion_a_16
+    21300034: sprite_toonExplosion_a_17
+    21300036: sprite_toonExplosion_a_18
+    21300038: sprite_toonExplosion_a_19
+    21300040: sprite_toonExplosion_a_20
+    21300042: sprite_toonExplosion_a_21
+    21300044: sprite_toonExplosion_a_22
+    21300046: sprite_toonExplosion_a_23
+    21300048: sprite_toonExplosion_a_24
+    21300050: sprite_toonExplosion_a_25
+    21300052: sprite_toonExplosion_a_26
+    21300054: sprite_toonExplosion_a_27
+    21300056: sprite_toonExplosion_a_28
+    21300058: sprite_toonExplosion_a_29
+    21300060: sprite_toonExplosion_a_30
+    21300062: sprite_toonExplosion_a_31
+    21300064: sprite_toonExplosion_a_32
+    21300066: sprite_toonExplosion_a_33
+    21300068: sprite_toonExplosion_a_34
+    21300070: sprite_toonExplosion_a_35
+    21300072: sprite_toonExplosion_a_36
+    21300074: sprite_toonExplosion_a_37
+    21300076: sprite_toonExplosion_a_38
+    21300078: sprite_toonExplosion_a_39
+    21300080: sprite_toonExplosion_a_40
+    21300082: sprite_toonExplosion_a_41
+    21300084: sprite_toonExplosion_a_42
+    21300086: sprite_toonExplosion_a_43
+    21300088: sprite_toonExplosion_a_44
+    21300090: sprite_toonExplosion_a_45
+    21300092: sprite_toonExplosion_a_46
+    21300094: sprite_toonExplosion_a_47
+    21300096: sprite_toonExplosion_a_48
+    21300098: sprite_toonExplosion_a_49
+    21300100: sprite_toonExplosion_a_50
+    21300102: sprite_toonExplosion_a_51
+    21300104: sprite_toonExplosion_a_52
+    21300106: sprite_toonExplosion_a_53
+    21300108: sprite_toonExplosion_a_54
+    21300110: sprite_toonExplosion_a_55
+    21300112: sprite_toonExplosion_a_56
+    21300114: sprite_toonExplosion_a_57
+    21300116: sprite_toonExplosion_a_58
+    21300118: sprite_toonExplosion_a_59
+    21300120: sprite_toonExplosion_a_60
+    21300122: sprite_toonExplosion_a_61
+    21300124: sprite_toonExplosion_a_62
+    21300126: sprite_toonExplosion_a_63
+    21300128: sprite_toonExplosion_a_64
+    21300130: sprite_toonExplosion_a_65
+    21300132: sprite_toonExplosion_a_66
+    21300134: sprite_toonExplosion_a_67
+    21300136: sprite_toonExplosion_a_68
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 787
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e806a1ba64eae4a98ccc7309903e57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 772
+        width: 225
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed153b43dbf5b4191f43f0b51c34c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 782
+        width: 233
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b71673b0d6724fbec6414176fa1bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 782
+        width: 221
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99efe1e43fe5b8742acf5782efe5c28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 518
+        width: 227
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25851ead0263748852018de38b50c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 520
+        width: 226
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993db208fdab2ab4388a155d54822c48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_26
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 518
+        width: 232
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9263133bb4f82943bdab92b0e6b605e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 514
+        width: 231
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6e83607ac65da41a63274097be874e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 264
+        width: 231
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bf81ef1f9a5434a8d28995702ad0b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 262
+        width: 230
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb4afe14bff1124fb8a3bdb6abdfa4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 267
+        width: 207
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309e93b515e837742803fc4bd7db180e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_45
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 264
+        width: 210
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063f7b08c6ce104a88c780d51d522c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 205
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769f0016368369e42b25e6d10ce57d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_55
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 87
+        width: 206
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fea283d1014a2439d1e6dd1e0775cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_56
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 126
+        width: 185
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9116ae534a63140a358c0356545cd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 128
+        width: 179
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa959298a5d414995758bfbb40c309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_toonExplosion_a_1
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 97
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3f2ccc1688af4fb5d2b631f2a9e6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a45b8599a20e6564d9bd5d853ccf4462
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
